@@ -14,8 +14,6 @@ We will be holding a virtual day of conversation and focused group action. We en
 1:15&nbsp;-&nbsp;2:30 PDT (20:15-21:30 UTC): Second round of focused small group work<br/>
 2:30&nbsp;-&nbsp;3:00 PDT (21:30-22:00 UTC): Closing discussion
 
-Add this event to your calendar: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjQwMGwxZmltaXRwdjZ1NWVuMHQzZ2c3bDYga2VubnkuZm9uZXJAbQ&amp;tmsrc=kenny.foner%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-
 Looking forward to seeing you there,
 
 [Kenny Foner](very.science), [Talia Ringer](https://tlringer.github.io/), et. al.
