@@ -4,7 +4,7 @@ In the United States, the most recent murders of Black people at the hands of po
 
 ## Join Us
 
-On this **Wednesday, June 10, 10:00 am - 3:00 pm PST**, we join in the movement to [#ShutdownSTEM]((https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). We call on anyone in the global programming languages community to come listen, work, and plan to actively reject racism from the systems we create and the systems within which we exist. We know that one day of action is not enough: our goal is to both achieve small immediate change, and to facilitate the planning of broader systemic change across the world of programming languages research.
+On this **Wednesday, June 10, 10:00 am - 3:00 pm PST**, we join in the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). We call on anyone in the global programming languages community to come listen, work, and plan to actively reject racism from the systems we create and the systems within which we exist. We know that one day of action is not enough: our goal is to both achieve small immediate change, and to facilitate the planning of broader systemic change across the world of programming languages research.
 
 We will be holding a virtual day of conversation and focused group action. We encourage you to attend for all or most of the day, but we will be happy to welcome you if you can only be there some of the time. Our schedule (subject to change at the desire of participants):
 
