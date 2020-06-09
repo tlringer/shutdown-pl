@@ -8,13 +8,17 @@ On this **Wednesday, June 10, 10:00 am - 3:00 pm PST**, we join in the movement 
 
 We will be holding a virtual day of conversation and focused group action. We encourage you to attend for all or most of the day, but we will be happy to welcome you if you can only be there some of the time. Our schedule (subject to change at the desire of participants):
 
-10:00-10:30 PST (18:00-18:30 UTC): Introduction, setting intention, opening discussion
-10:45-12:00 PST (18:45-20:00 UTC): Break out into smaller self-determined focus groups
-12:30-1:00 PST (20:30-21:00 UTC): Progress check-in, discussion
-1:15-2:30 PST (21:15-22:30 UTC): Second round of focused small group work
-2:30-3:00 PST (22:30-23:00 UTC): Closing discussion, connection for future work
+```
+10:00 - 10:30 PST (18:00-18:30 UTC): Introduction, setting intention, opening discussion
+10:45 - 12:00 PST (18:45-20:00 UTC): Break out into smaller self-determined focus groups
+12:30 -  1:00 PST (20:30-21:00 UTC): Progress check-in, discussion
+1:15  -  2:30 PST (21:15-22:30 UTC): Second round of focused small group work
+2:30  -  3:00 PST (22:30-23:00 UTC): Closing discussion, connection for future work
+```
 
-You can register here: https://forms.gle/yoTAd6orSMUxAStdA. We are seeking people to act in the capacity of group facilitators---if you are interested in this form of work, please make sure to let us know on the form.
+## Registration
+
+Please register here: https://forms.gle/yoTAd6orSMUxAStdA. We are seeking people to act in the capacity of group facilitators---if you are interested in this form of work, please make sure to let us know on the form.
 
 Looking forward to seeing you there,
 
