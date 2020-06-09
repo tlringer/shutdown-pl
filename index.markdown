@@ -10,9 +10,9 @@ We will be holding a virtual day of conversation and focused group action. We en
 
 10:00&nbsp;-&nbsp;10:30 PDT (17:00-17:30 UTC): Introduction, opening, setting intentions<br/>
 10:45&nbsp;-&nbsp;12:00 PDT (17:45-19:00 UTC): Break into smaller self-determined groups<br/>
-12:30&nbsp;-&nbsp;&nbsp;1:00 PDT (19:30-20:00 UTC): Progress check-in, discussion<br/>
-&nbsp;1:15&nbsp;&nbsp;-&nbsp;&nbsp;2:30 PDT (20:15-21:30 UTC): Second round of focused small group work<br/>
-&nbsp;2:30&nbsp;&nbsp;-&nbsp;&nbsp;3:00 PDT (21:30-22:00 UTC): Closing discussion
+12:30&nbsp;-&nbsp;1:00 PDT (19:30-20:00 UTC): Progress check-in, discussion<br/>
+1:15&nbsp;-&nbsp;2:30 PDT (20:15-21:30 UTC): Second round of focused small group work<br/>
+2:30&nbsp;-&nbsp;3:00 PDT (21:30-22:00 UTC): Closing discussion
 
 Add this event to your calendar: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjQwMGwxZmltaXRwdjZ1NWVuMHQzZ2c3bDYga2VubnkuZm9uZXJAbQ&amp;tmsrc=kenny.foner%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
