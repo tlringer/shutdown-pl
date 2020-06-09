@@ -18,7 +18,9 @@ We will be holding a virtual day of conversation and focused group action. We en
 
 ## Registration
 
-Please register here: https://forms.gle/yoTAd6orSMUxAStdA. We are seeking people to act in the capacity of group facilitators---if you are interested in this form of work, please make sure to let us know on the form.
+Please register here: [https://forms.gle/yoTAd6orSMUxAStdA](https://forms.gle/yoTAd6orSMUxAStdA).
+
+We are seeking people to act in the capacity of group facilitators---if you are interested in this form of work, please make sure to let us know on the form.
 
 Looking forward to seeing you there,
 
