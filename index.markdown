@@ -14,11 +14,11 @@ We will be holding a virtual day of conversation and focused group action. We en
 1:15&nbsp;-&nbsp;2:30 PDT (20:15-21:30 UTC): Second round of focused small group work<br/>
 2:30&nbsp;-&nbsp;3:00 PDT (21:30-22:00 UTC): Closing discussion
 
-Both of the organizers of Shutdown PL are white, and we do not want to demand labor from black voices on a day that is focused on sustained allyship. However, the last thing we want is a day of nonblack researchers speaking for and taking actions on the behalf of black researchers without first listening. Accordingly, we will ensure all actions we commit to include plans to reach out and listen and make sure those actions are reasonable, or otherwise adjust our plans.
+We want to note: both of the organizers of #ShutdownPL (Talia and Kenny) are white, and we do not want to demand labor of Black voices on a day that is focused on sustainable allyship. However, the last thing we want is a day of non-Black researchers speaking for and taking actions on the behalf of Black researchers without their input. Accordingly, we will ensure all our commitments to act begin from a place of listening to the Black community within and beyond programming languages research.
 
 Looking forward to seeing you there,
 
-[Kenny Foner](very.science), [Talia Ringer](https://tlringer.github.io/), et. al.
+[Kenny Foner](https://very.science), [Talia Ringer](https://tlringer.github.io/), et. al.
 
 # Register
 
